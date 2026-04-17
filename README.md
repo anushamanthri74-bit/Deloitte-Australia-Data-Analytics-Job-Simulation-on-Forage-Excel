@@ -15,22 +15,27 @@ Microsoft Excel – Data cleaning, classification, and analysis
 Tableau – Dashboard creation and data visualization
 
 📂 Dataset
+
 The dataset was provided as part of the simulation and contains structured business data used for analysis.
 
 Key Details:
+
 Contains categorized and transactional data
 Includes multiple attributes for analysis
 Used for identifying trends and anomalies
 
 ⚙️ Workflow
+
 🔹 1. Data Preparation (Excel)
 Cleaned and formatted raw data
 Handled missing and inconsistent values
 Classified and structured data for analysis
+
 🔹 2. Data Visualization (Tableau)
 Connected dataset to Tableau
 Created interactive dashboards
 Visualized key metrics and trends
+
 🔹 3. Insights Generation
 Identified business patterns
 Derived actionable insights
